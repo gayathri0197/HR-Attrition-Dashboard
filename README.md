@@ -1,9 +1,9 @@
 # 📍HR Attrition Dashboard 
 ## 📌Project Overview
-I have built this HR dashboard using power BI and EXCEL to analyse the attrition rate, employee performance, demographics and salary of employees.
+An interactive 3 page HR analytics dashboard built to analyse employee attrition patterns across 1,470 employees using the IBM HR Analytics dataset. The project explores key drivers of attrition including salary, overtime, job satisfaction, demographics and department performance.
 
 
-## 🔨Tools i used for this project
+## 🔨Tools I used for this project
 * Excel
 * Power Query
 * Power BI
@@ -28,8 +28,20 @@ I have built this HR dashboard using power BI and EXCEL to analyse the attrition
   * Genderwise Men left more than female employees.
 
     
-## Dashboard Preview
+## 📂Dashboard Preview
 ![overview](Overview.png)
-![Employee and Performance](EmployeePerformance.png)
+![Employee and Performance](Employee_Performance.png)
+![Demographic and Salary](Demographics_and_salary.png)
 
-![](Demographicsandsalary.png)
+
+
+## 📂 Data Source
+IBM HR Analytics Employee Attrition & Performance Dataset 
+[View Dataset](https://www.kaggle.com/code/faressayah/ibm-hr-analytics-employee-attrition-performance)
+
+
+## 💡What I learned
+  * Writing DAX measures for custom KPIs and attrition calculations
+  * Using Power Query for data transformation and conditional columns
+  * Translating complex HR data into clear business narratives
+  * Building interactive slicers and cross-filtering visuals in Power BI
