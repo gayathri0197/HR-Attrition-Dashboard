@@ -30,5 +30,6 @@ I have built this HR dashboard using power BI and EXCEL to analyse the attrition
     
 ## Dashboard Preview
 ![overview](Overview.png)
-![Employee and Performance](Employee Performance.png)
+![Employee and Performance](EmployeePerformance.png)
+
 ![](Demographicsandsalary.png)
